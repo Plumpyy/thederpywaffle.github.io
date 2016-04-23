@@ -16,7 +16,7 @@ var CONFIG = {
       "width": 46,
       "height": 64,
       "scale": 1,
-      "gravity": 1200,
+      "gravity": 120000000000000000000000000000000000000,
       "outkill": true,
       "flap": {
         "velocity": -420,
@@ -49,7 +49,7 @@ var CONFIG = {
     "height": 500,
     "space": 180,
     "offset": 150,
-    "spieed": 15090,
+    "spieed": 150,
     "interval": 1700 
   },
   "score": {
