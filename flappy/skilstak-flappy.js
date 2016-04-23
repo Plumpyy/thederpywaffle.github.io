@@ -49,7 +49,7 @@ var CONFIG = {
     "height": 500,
     "space": 180,
     "offset": 150,
-    "speed": 2,
+    "speed": 28,
     "interval": 1700 
   },
   "score": {
