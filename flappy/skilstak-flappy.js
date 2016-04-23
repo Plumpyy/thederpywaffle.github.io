@@ -21,7 +21,7 @@ var CONFIG = {
       "flap": {
         "velocity": -420,
         "frame": 0,
-        "rotate": 409,
+        "rotate": -40,
         "norotate": true
       },
       "end": {
