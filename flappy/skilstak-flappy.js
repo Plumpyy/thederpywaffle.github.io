@@ -13,8 +13,8 @@ var CONFIG = {
   },
   "flappy": {
       "x": 60,
-      "width": 4689,
-      "height": 6489,
+      "width": 46,
+      "height": 64,
       "scale": 1,
       "gravity": 120000000000000000000000000000000000000,
       "outkill": false,
