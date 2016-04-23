@@ -49,7 +49,7 @@ var CONFIG = {
     "height": 500,
     "space": 180,
     "offset": 150,
-    "speed": 170,
+    "speed": 2905,
     "interval": 1700 
   },
   "score": {
@@ -70,7 +70,7 @@ var CONFIG = {
     } 
   },
   "gameover": {
-    "text": "Game\nOver",
+    "text": "bgrgd\ntjcgj",
     "offset": -150,
     "style": {
       "font": "100px sans-serif", 
