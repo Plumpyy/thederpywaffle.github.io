@@ -12,6 +12,7 @@
     </p>
   </body>
 </html>
+<style>
 body {
   font-family: sans-serif;
   color: #000066
@@ -24,12 +25,14 @@ img {
   margin-bottom: -1em;
   width: 20%;
 }
+</style>
+<srcipt>
 var canvas = document.querySelector("canvas");
 canvas.width = 600;
 canvas.height = 125;
 var ctx = canvas.getContext("2d");
 ctx.font = "bold 30px Comic Sans MS";
-
+  </script>
 function drawRainbow (text,x,y) {
   var colors = ["red","black","yellow","blue","indigo","violet"];
   for (i = 0; i < colors.length; i++) {
