@@ -8,7 +8,7 @@ var C = {
     "height": 568,
     "xspeed": 0,
     "yspeed": 700,
-    "file": "assets/background.png"
+    "file": "assets/besttreeyouwilleversee.jpg"
   }
 }
 
@@ -28,7 +28,6 @@ class Load {
   preload() {
     console.log("Loading...Please Wait");
     this.load.image("bg",C.bg.file)
-    //this.load.image("bg","assets/background.png")
   }
   
   create() {
@@ -47,6 +46,9 @@ class Play {
 
 
  function restart() {
+
+ }
+
 var game = new Phaser.Game(320,568);
 game.state.add("Boot",Boot);
 game.state.add("Load",Load);
