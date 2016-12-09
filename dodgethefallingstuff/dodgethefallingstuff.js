@@ -6,6 +6,7 @@ var C = {
   "bg": {
     "width": 320,
     "height": 568,
+    "frames": 
     "xspeed": 0,
     "yspeed": 700,
     "file": "assets/besttreeyouwilleversee.jpg"
